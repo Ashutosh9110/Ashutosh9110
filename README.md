@@ -10,23 +10,21 @@
 </p>
 
 
-<h3 align="center">Data Science enthusiast</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 
-- 🔭 I’m currently working on [Real-time Human Pose Estimation using Posenet](https://github.com/Ashutosh9110/posenet_ml5js)
+- 🔭 I’m currently working on [Excalidraw clone](https://github.com/Ashutosh9110/ExcaliDraw)
 
-- 🌱 I’m currently learning **DSA, ML, ANN**
+- 🌱 I’m currently learning **FramerMotion, Framer, GSAP, RUST, French**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashutosh9110](https://github.com/Ashutosh9110)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://work-with-ashutosh.netlify.app/)
 
-- 📝 I regularly write articles on [https://github.com/Ashutosh9110](https://github.com/Ashutosh9110)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ashusingh19911082)
 
-- 💬 Ask me about **Python, AI, ML**
+- 💬 Ask me about **Frontend-Backend Development, Animations, Figma, Latest Technologies**
 
-- 📫 How to reach me **veni_vidi.vici@outlook.com**
-
-- 📄 Know about my experiences [https://github.com/Ashutosh9110](https://github.com/Ashutosh9110)
+- 📫 How to reach me **work.with.ashutosh@outlook.com**
 
 - ⚡ Fun fact **Waiting for the waiter makes you the waiter...!**
 
