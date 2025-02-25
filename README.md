@@ -2,10 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Ashutosh+Adhikari!;" />
 </h1>
 
-<h4 aling='center' >
+<h3 aling='center' >
 I am a passionate full-stack developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in Front-End as well as back-end technologies. I aim to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
     
-</h4>
+</h3>
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAshutosh9110&label=Visitors%20so%20far&countColor=%23263759)
@@ -41,8 +41,6 @@ I am a passionate full-stack developer with a knack for crafting robust and scal
   <img src="https://github.com/Ashutosh9110/Ashutosh9110/assets/113494449/4e091575-256f-4515-99d9-ac4e9a9f8c5f" alt="animated" />
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-adhikari-6b8379258/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20337959/ashu-singh) 
 
 # 💻 Tech Stack:
 <div align="center">
